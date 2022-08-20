@@ -1,0 +1,5 @@
+#Dependencide
+/node_modules
+
+#Deploy
+/build

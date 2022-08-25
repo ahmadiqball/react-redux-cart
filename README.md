@@ -7,9 +7,9 @@ Stack :
 - Redux
 
 ## Github Pages
-```
-htpps://ahmadiqbal.github.io/react-redux-cart
-```
+
+[https://ahmadiqball.github.io/react-redux-cart](https://ahmadiqball.github.io/react-redux-cart)
+
 
 ## Use Repo
 To clone and use this repository you could run

@@ -2,6 +2,10 @@
 
 Implement react-redux package as state management system to a shopping cart app.
 
+Stack :
+- ReactJs
+- Redux
+
 ## Github Pages
 ```
 htpps://ahmadiqbal.github.io/react-redux-cart

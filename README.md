@@ -14,7 +14,7 @@ Stack :
 ## Use Repo
 To clone and use this repository you could run
 ```
-git clone git@github:ahmadiqball/react-redux-cart
+git clone git@github:ahmadiqball/react-redux-cart.git
 npm install
 npm start
 ```
